@@ -2,7 +2,7 @@
 
 This repository contains tools to manage [DTDL](https://aka.ms) models submitted to the Azure IoT Plug and Play models repository [Azure/iot-plugandplay-models](https://github.com/Azure/iot-plugandplay-models).
 
-## Repo structure
+## Repo structure UPDATED
 
 ### Wiki Spec
 
